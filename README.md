@@ -20,14 +20,6 @@ Python-like Machine Learning & Data Science Repository for the MQL5 Programming 
   <a href="https://github.com/MegaJoctan/MALE5/blob/main/LICENSE">
     <img src="https://img.shields.io/github/license/MegaJoctan/MALE5?color=blue" alt="License"/>
   </a>
-
-  <a>
-    <img src="https://img.shields.io/badge/Platform-Win32%20|%20Linux%20|%20macOS-blue?color=blue" alt="Platform Win32 | Linux | macOS"/>
-  </a>
-
-</p>
-
-<p align="center">
   <a href="https://discord.gg/2qgcadfgrx" style="text-decoration:none">
     <img src="https://img.shields.io/badge/Discord-%237289DA?style=flat&logo=discord"/>
   </a>
